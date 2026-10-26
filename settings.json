@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
-    "username": "PerzaanLive",
+  "bot-account": {afkbot67
+    "username": "bekaesenafkbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Esentai666beka-52jU.aternos.me",
+    "port": 27981,
     "version": "1.21.1"
   },
   "position": {
@@ -46,7 +46,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -69,7 +69,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
@@ -86,6 +86,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
